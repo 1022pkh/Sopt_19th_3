@@ -105,7 +105,7 @@ public class UpgradeAdapter extends BaseAdapter{
     }
 
 
-    // Filter Class
+    // Filter
     public void filter(String charText) {
         /**
          * 검색창에 입력한 데이터를 가져오는 것이죠
